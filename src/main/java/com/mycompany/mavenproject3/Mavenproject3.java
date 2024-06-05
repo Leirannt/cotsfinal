@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.mavenproject3;
+package com.mycompany.mavenproject3; //batas lane pada gate sonar
 
 import java.util.Scanner;
 
@@ -11,7 +11,8 @@ import java.util.Scanner;
  * @author ariel
  */
 public class Mavenproject3 {
-    
+
+    //banyak metode
     public double add(double num1, double num2) {
         return num1 + num2;
     }
