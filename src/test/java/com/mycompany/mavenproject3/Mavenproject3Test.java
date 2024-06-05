@@ -17,7 +17,7 @@ public class Mavenproject3Test {
     @Test
     public void testAdd() {
         Mavenproject3 calculator = new Mavenproject3();
-        double result = calculator.add(5.0, 3.0);
+        double result = calculator.add(54.0, 34.0);
         assertEquals(8.0, result, 0.001); // Assert expected result with a tolerance
     }
 
