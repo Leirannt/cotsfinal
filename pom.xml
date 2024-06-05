@@ -19,7 +19,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/Leirannt/cobalagi</url>
+            <url>https://maven.pkg.github.com/Leirannt/cotsfinal</url>
         </repository>
     </distributionManagement>
     
